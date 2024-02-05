@@ -1,3 +1,3 @@
 # Portfolio
 
-www.linkedin.com/learning-login/go/ 
+https://yrikw.github.io/portfolio/index.html
